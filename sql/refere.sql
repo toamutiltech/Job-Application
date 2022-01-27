@@ -1,0 +1,1 @@
+CREATE TABLE refere (refere_id INT NOT NULL AUTO_INCREMENT, reg_id INT, ref_name VARCHAR(70), ref_number VARCHAR(45), ref_email VARCHAR(100), ref_work VARCHAR(70), ref_address VARCHAR(300), ref_position VARCHAR(70), PRIMARY KEY (refere_id));

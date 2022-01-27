@@ -1,0 +1,1 @@
+CREATE TABLE job (job_id INT NOT NULL AUTO_INCREMENT, reg_id INT NOT NULL, jname VARCHAR(100), `position` VARCHAR(100), syear VARCHAR(70), eyear VARCHAR(70), jaddress VARCHAR(300), PRIMARY KEY (job_id));
